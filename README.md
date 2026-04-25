@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Emaan
+# Hi There!
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Consistency+is+Key;Future+AI+Engineer;Let's+Build)
