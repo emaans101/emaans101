@@ -27,4 +27,6 @@ Python | Git | HTML | CSS | C++
   <img src="https://skillicons.dev/icons?i=python,git,html,css" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=emaans101)
+
 
