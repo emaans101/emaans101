@@ -26,7 +26,7 @@ Python | Git | HTML | CSS | C++
 
 ## 📫 Connect with Me
 - Email: EF434@live.mdx.ac.uk
-- 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaans101&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emaans101&layout=compact)
