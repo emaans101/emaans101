@@ -1,7 +1,8 @@
 
 # Hi 👋, I'm Emaan
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Consistency+is+KeyFuture+AI+Engineer;Let's+Build)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Consistency+is+Key;Future+AI+Engineer;Let's+Build)
 
 🎓 AI & Data Science Student  
 💻 Learning Python, and AI  
