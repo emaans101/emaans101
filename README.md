@@ -4,21 +4,21 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Consistency+is+Key;Future+AI+Engineer;Let's+Build)
 
-🎓 AI & Data Science Student  
+AI & Data Science Student  
 💻 Learning Python, and AI  
-🚀 Building projects to improve every day  
+Building projects to improve every day  
 
 ---
-## ✨ About Me
-- 🎨 Into art & creativity  
-- 💡 Love learning new tech skills  
+## About Me
+-  Into art & creativity  
+- Love learning new tech skills  
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 Python | Git | HTML | CSS | C++ 
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Data Structures
 - AI fundamentals
 - Advanced Python
@@ -31,7 +31,7 @@ Python | Git | HTML | CSS | C++
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emaans101&layout=compact)
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,git,html,css" />
 </p>
