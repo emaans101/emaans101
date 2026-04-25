@@ -6,6 +6,9 @@
 🚀 Building projects to improve every day  
 
 ---
+## ✨ About Me
+- 🎨 Into art & creativity  
+- 💡 Love learning new tech skills  
 
 ## 🛠️ Languages & Tools
 Python | Git | HTML | CSS | C++ 
