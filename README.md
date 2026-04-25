@@ -18,4 +18,8 @@ Python | Git | HTML | CSS | C++
 - Advanced Python
 - Optimizing Space and Time Complexity
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
 
