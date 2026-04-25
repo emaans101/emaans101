@@ -4,9 +4,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Consistency+is+Key;Future+AI+Engineer;Let's+Build)
 
-AI & Data Science Student  
-Learning Python, and AI  
-Building projects to improve every day  
+⁃ AI & Data Science Student  
+⁃ Learning Python, and AI  
+⁃ Building projects to improve every day  
 
 ---
 ## About Me
