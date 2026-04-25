@@ -38,6 +38,4 @@ Python | Git | HTML | CSS | C++
 
 ![Profile Views](https://komarev.com/ghpvc/?username=emaans101)
 
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/main/output-svg-only/github-contribution-grid-snake.svg)
-
 
