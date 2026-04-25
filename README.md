@@ -1,5 +1,6 @@
 
 # Hi 👋, I'm Emaan
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 🎓 AI & Data Science Student  
 💻 Learning Python, and AI  
