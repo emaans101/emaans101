@@ -143,7 +143,7 @@ class EmaanFatima:
 
 <div align="center">
 
-*"The secret of getting ahead is getting started."* 
+*"Challenges are opportunities for growth."* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cdb4db,30:b5ead7,60:d8ccf5,100:c9f0e1&height=120&section=footer" />
 
