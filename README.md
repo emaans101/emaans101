@@ -37,10 +37,9 @@ class EmaanFatima:
     name        = "Emaan Fatima"
     role        = "AI & Data Science Student 🎓"
     university  = "Middlesex University Dubai 🇦🇪"
-    pronouns    = "she/her"
 
     passions    = ["Artificial Intelligence 🤖", "Creative Coding 💻",
-                   "Data Science 📊",  "Art & Design 🎨", "Self-Growth 🌱"]
+                   "Data Science 📊",  "Design 🎨", "Self-Growth 🌱"]
 
     currently   = {
         "studying"  : ["Data Structures & Algorithms", "AI Fundamentals",
@@ -49,11 +48,6 @@ class EmaanFatima:
         "reading"   : "Anything about AI, the future, and human potential 📚"
     }
 
-    fun_facts   = ["I see code as a form of art 🖼️",
-                   "I believe small daily progress > perfection 🌿",
-                   "Coffee + lo-fi music = peak productivity ☕🎵"]
-
-    motto       = "Stay consistent. Stay curious. Build every day. 💫"
 ```
 
 ---
@@ -70,7 +64,7 @@ class EmaanFatima:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-★★★★☆-b5ead7?style=flat-square&labelColor=f0faf5&color=8ecfb5)
+![Python](https://img.shields.io/badge/Python-★★★★★-b5ead7?style=flat-square&labelColor=f0faf5&color=8ecfb5)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★★☆-cdb4db?style=flat-square&labelColor=f5f0fa&color=b89fd4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-ffd6e7?style=flat-square&labelColor=fff0f5&color=f4a7c0)
 ![C++](https://img.shields.io/badge/C++-★★★☆☆-d8e4f5?style=flat-square&labelColor=f0f3fa&color=93b4e8)
@@ -115,44 +109,6 @@ class EmaanFatima:
 
 ---
 
-## 🎯 2025 Goals
-
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════╗
- ║  🌸  2025 — Year of Building & Growing  🌸           ║
- ╠══════════════════════════════════════════════════════╣
- ║  ☐  Complete 5+ personal AI/ML projects             ║
- ║  ☐  Master Python & Data Science fundamentals       ║
- ║  ☐  Contribute to an open-source project            ║
- ║  ☐  Land a tech internship or placement             ║
- ║  ☐  Build a personal portfolio website              ║
- ║  ☐  Maintain a daily GitHub streak 🔥               ║
- ╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎨 A Bit More About Me
-
-<div align="center">
-
-| 🌸 | About |
-|:--:|:------|
-| 🎨 | I blend **art and creativity** with code — design thinking lives in everything I build |
-| 🤖 | Deeply passionate about **AI** and the future it's shaping |
-| ☕ | Best ideas come with coffee, lo-fi music, and a quiet corner |
-| 🌱 | Committed to **daily progress** — small steps compound into something great |
-| 💡 | Believer in **learning in public** and growing through sharing |
-| 🌍 | Based in **Dubai** — where ambition meets opportunity |
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -187,7 +143,7 @@ class EmaanFatima:
 
 <div align="center">
 
-*"The secret of getting ahead is getting started."* 🌸
+*"The secret of getting ahead is getting started."* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cdb4db,30:b5ead7,60:d8ccf5,100:c9f0e1&height=120&section=footer" />
 
