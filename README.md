@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emaan%20Shabbir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making%20✦%20Builder%20✦%20Creator&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emaan%20Fatima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making%20✦%20Builder%20✦%20Creator&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Consistency+is+Key+%F0%9F%94%91;Future+AI+Engineer+%F0%9F%A4%96;Building+One+Commit+at+a+Time+%F0%9F%9A%80;Art+%2B+Code+%3D+My+Universe+%F0%9F%8E%A8" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 
 ```python
 class Emaan:
-    name       = "Emaan Shabbir"
+    name       = "Emaan Fatima"
     role       = "AI & Data Science Student"
     university = "Middlesex University Dubai"
     
