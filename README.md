@@ -32,8 +32,9 @@ Python | Git | HTML | CSS | C++
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emaans101&layout=compact)
 
 ## Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,html,css" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,html,css" height="50" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=emaans101)
