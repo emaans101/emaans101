@@ -27,12 +27,12 @@
 
 ```python
 class Emaan:
-    name       = "Emaan Fatima"
+    name       = "Emaan Shabbir"
     role       = "AI & Data Science Student"
     university = "Middlesex University Dubai"
     
     interests  = ["Artificial Intelligence", "Creative Coding",
-                  "Data Science", "Design", "Self-Growth"]
+                  "Data Science", "Art & Design", "Self-Growth"]
     
     currently  = ["📐 Data Structures & Algorithms",
                   "🧠 AI Fundamentals",
