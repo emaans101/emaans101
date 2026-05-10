@@ -34,7 +34,7 @@ Python | Git | HTML | CSS | C++
 ## Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,html,css" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,git,html,css, python, javascript" height="50" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=emaans101)
