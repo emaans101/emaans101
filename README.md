@@ -90,25 +90,6 @@ class EmaanFatima:
 
 </div>
 
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-| 🌿 Topic | 📍 Status | 💜 Priority |
-|:---------|:----------|:-----------|
-| 📐 Data Structures & Algorithms | 🔄 In Progress | ⭐⭐⭐⭐⭐ |
-| 🤖 AI & Machine Learning Fundamentals | 🔄 In Progress | ⭐⭐⭐⭐⭐ |
-| 🐍 Advanced Python | 🔄 In Progress | ⭐⭐⭐⭐☆ |
-| ⏱️ Space & Time Complexity | 🔄 In Progress | ⭐⭐⭐⭐☆ |
-| 🧮 Mathematics for AI | 🔜 Next Up | ⭐⭐⭐☆☆ |
-| ☁️ Cloud & MLOps Basics | 🔜 Next Up | ⭐⭐⭐☆☆ |
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
